@@ -15,6 +15,6 @@ Welcome to TestSomething's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
+* :ref:`test`
 * :ref:`modindex`
 * :ref:`search`
