@@ -10,6 +10,8 @@ Welcome to TestSomething's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   test
+
 
 
 Indices and tables
