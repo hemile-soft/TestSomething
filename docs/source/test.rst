@@ -1,16 +1,7 @@
 ========
-$project
+Installation
 ========
 
-A small summary of the project.
-
-Then, some more explanation maybe?
-
-
---------
-Features
---------
-Some features
 
 
 ------------
