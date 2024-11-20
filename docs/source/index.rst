@@ -3,20 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to TestSomething's documentation!
+TestSomething
 =========================================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+TestSomething is a great repository to test something. It will allow to learn something new. This introduction paragraph should summarize TestSomething's features and the program's goal. A "Next" button will lead to the installation subpage, hopefully.
 
-   test
-
-
-
-Indices and tables
-==================
-
-* :ref:`test`
-* :ref:`modindex`
-* :ref:`search`
