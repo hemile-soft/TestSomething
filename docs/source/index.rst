@@ -6,5 +6,12 @@
 TestSomething
 =========================================
 
-TestSomething is a great repository to test something. It will allow to learn something new. This introduction paragraph should summarize TestSomething's features and the program's goal. A "Next" button will lead to the installation subpage, hopefully.
+TestSomething is a great repository to test something. It will allow to learn something new. This introduction paragraph should summarize TestSomething's features and the program's goal. A "Next" button will lead to the installation subpage, hopefully. Hidden TOCs will be shown in the navigation sidebar.
 
+
+
+.. toctree::
+   :hidden:
+   :caption: General Information
+
+   installation
