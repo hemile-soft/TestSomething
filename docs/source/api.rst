@@ -3,10 +3,14 @@
 API Documentation
 =================
 
-.. module:: 
+.. module:: testsomething
 This part covers all interfaces you need to implement your own algorithms.
 
 
-Something
----------
+TestSomething Interface
+-----------------------
 
+All functions of the TestSomething module.
+
+.. autofunction:: funny_function
+.. autofunction:: another_function
