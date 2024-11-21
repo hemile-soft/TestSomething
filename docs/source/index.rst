@@ -14,7 +14,7 @@ Installation
 
 This part of the documentation helps you to install TestSomething.
 
-..toctree::
+.. toctree::
    :maxdepth: 2
 
    installation
@@ -45,7 +45,7 @@ This part of the documentation is about part 1 of the package.
 API Documentation
 -----------------
 
-..toctree::
+.. toctree::
    :maxdepth: 2
 
    api
