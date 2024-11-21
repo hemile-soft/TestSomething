@@ -36,6 +36,12 @@ extensions = [
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
 
+# Do not show "Created using Sphinx" in the HTML footer.
+html_show_sphinx = False
+
+# Show "(C) Copyright ..." in the HTML footer.
+html_show_copyright = True
+
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
