@@ -12,11 +12,16 @@ TestSomething Interface
 
 All functions of the TestSomething module.
 
-.. py:function:: enumerate(sequence[, start=0])
+This is the ``testsomething.do_something()`` function:
+
+.. py:function:: do_something(arg1: str)
 
    Return an iterator that yields tuples of an index and an item of the
-   *sequence*. (And so on.)
+   *sequence*.
 
+   :param arg1: Optional argument.
+   :type arg1: str
+   
 
 .. autofunction:: io.open
 
