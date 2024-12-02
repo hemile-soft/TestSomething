@@ -8,7 +8,7 @@ API Documentation
 This part covers all interfaces you need to implement your own algorithms.
 
 
-Trying to include a module inside some subpackage.
+Trying to include a module inside some subpackage. Why?
 
 .. automodule:: testsomething.common.things
 
