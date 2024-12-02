@@ -12,5 +12,6 @@ TestSomething Interface
 
 All functions of the TestSomething module.
 
+.. autofunction:: io.open
 .. autofunction:: funny_function
 .. autofunction:: another_function
