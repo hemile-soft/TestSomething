@@ -4,7 +4,14 @@ API Documentation
 =================
 
 .. automodule:: testsomething
+
 This part covers all interfaces you need to implement your own algorithms.
+
+
+Trying to include a module inside some subpackage.
+
+.. automodule:: testsomething.common
+
 
 
 TestSomething Interface
