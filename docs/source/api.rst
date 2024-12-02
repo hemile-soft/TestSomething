@@ -3,7 +3,7 @@
 API Documentation
 =================
 
-.. module:: testsomething
+.. automodule:: testsomething
 This part covers all interfaces you need to implement your own algorithms.
 
 
