@@ -40,6 +40,6 @@ This is the ``testsomething.do_something()`` function:
 
 .. autofunction:: io.open
 
-.. autofunction:: funny_function
+.. autofunction:: testsomething.funny_function
 
-.. autofunction:: another_function
+.. autofunction:: testsomething.another_function
