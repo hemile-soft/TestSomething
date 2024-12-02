@@ -13,7 +13,7 @@ Trying to include a module inside some subpackage. Now, it should work..
 ``test_something.common.things``
 
 .. automodule:: test_something.common.things
-   :members:
+
 
 .. autoclass:: test_something.common.things.ClassA
    :members:
