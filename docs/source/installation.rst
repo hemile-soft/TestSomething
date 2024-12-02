@@ -10,4 +10,7 @@ TestSomething can be used as a standalone application. To install TestSomething 
 Linux (Debian-based, e.g., Ubuntu)
 ==================================
 
-L
+.. code-block:: console
+
+   (.venv) $ pip install lmfit
+
