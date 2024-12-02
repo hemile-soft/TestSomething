@@ -14,7 +14,10 @@ Trying to include a module inside some subpackage. Now, it should work..
 
 .. automodule:: test_something.common.things
    :no-undoc-members:
-   
+
+.. autoclass:: test_something.common.things.ClassA
+
+.. autofunction:: test_something.common.things.module_function
 
 
 
