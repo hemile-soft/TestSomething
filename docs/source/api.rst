@@ -3,8 +3,6 @@
 API Documentation
 =================
 
-.. automodule:: testsomething
-
 This part covers all interfaces you need to implement your own algorithms.
 
 
@@ -36,10 +34,11 @@ This is the ``testsomething.do_something()`` function:
 
    :param arg1: Optional argument.
    :type arg1: str
-   
 
-.. autofunction:: io.open
 
 .. autofunction:: testsomething.funny_function
 
 .. autofunction:: testsomething.another_function
+
+.. autofunction:: io.open
+
