@@ -1,6 +1,5 @@
 
-
-  def funny_function(para: str):
+def funny_function(para: str):
     """
     Returns something funny.
   
